@@ -27,9 +27,8 @@ Install the required dependencies using pip install -r requirements.txt
 Run the application using streamlit run app.py
 Explore the codebase and identify areas where you can contribute
 Contact
-If you have any questions, suggestions, or would like to discuss contributing to this project, please feel free to reach out to us at [insert contact email or GitHub handle].
+If you have any questions, suggestions, or would like to discuss contributing to this project, please feel free to reach out to us at [subasiarhan3@gmail.com.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
 
 Thank you for considering contributing to this project!
