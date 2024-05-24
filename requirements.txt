@@ -1,0 +1,13 @@
+streamlit
+langchain
+ollama
+crewai
+selenium
+beautifulsoup4
+requests
+jinja2
+numpy
+langchain_community
+PyPDF2
+nltk
+streamlit_lottie
